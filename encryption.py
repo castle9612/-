@@ -1,2 +1,1 @@
-
-print("test")
+from os import path
